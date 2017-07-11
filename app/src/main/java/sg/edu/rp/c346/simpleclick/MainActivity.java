@@ -10,6 +10,8 @@ import android.widget.ToggleButton;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    
     //Step 1: Declare the field variables
     TextView tvDisplay;
     Button btnDisplay;
